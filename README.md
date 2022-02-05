@@ -1,6 +1,10 @@
 # Vape-V4-RAT
 A Python3 discord trojan, utilizing discord webhooks for sending information.
 
+<p align="center">
+  <img src="https://img.shields.io:/github/license/NightTabGit/VapeV4-RAT?style=for-the-badge&logo=appveyor" alt="Code size"/>
+</p> <br/> 
+  
 ```
 What you do with this code / project / idea is non of my buisness or concern, and this was made for **educational** purposes only (testing software), and anything done with this code is NOT endorsed by me.
 
