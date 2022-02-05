@@ -2,7 +2,7 @@
 A Python3 discord trojan, utilizing discord webhooks for sending information.
 
 <p align="center">
-  <img src="https://img.shields.io:/github/license/NightTabGit/VapeV4-RAT?style=for-the-badge&logo=appveyor" alt="Code size"/>
+  <img src="https://img.shields.io:/github/license/NightTabGit/VapeV4-RAT" alt="Code size"/>
 </p> <br/> 
   
 ```
