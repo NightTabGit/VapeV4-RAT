@@ -1,3 +1,5 @@
+# CURRENTLY BROKEN
+
 # Vape-V4-RAT
 A Python3 discord trojan, utilizing discord webhooks for sending information.
 
