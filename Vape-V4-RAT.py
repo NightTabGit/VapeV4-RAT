@@ -224,7 +224,7 @@ if VM_DETECTED == False: # No VM.
         filename = image_url.split("/")[-1]
 
         # ICO file.
-        image_url2 = "https://gitcdn.link/cdn/NightTabGit/FakeV4-GUI/main/Default.ico"
+        image_url2 = "https://raw.githubusercontent.com/NightTabGit/FakeV4-GUI/main/Default.ico"
         filename2 = image_url2.split("/")[-1]
 
         # Download images to TEMP folder.
